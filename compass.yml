@@ -1,0 +1,14 @@
+name: PSScriptclass
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/7b63edf2-99ec-4e26-a9aa-ec0659ac1f29
+description: Class definition extensions for PowerShell's object-based type system
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
